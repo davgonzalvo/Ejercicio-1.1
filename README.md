@@ -21,11 +21,13 @@ Creamos un archivo "file1.txt" donde pondremos un comentario "Hola mundo!!"
                   en la consola pondremos " Hola mundo!!"
     git status
 
-Y vemos que ese archivo no esta incluido en el repositorio. Lo incluimos con el comando
+Y vemos que ese archivo no esta incluido en el repositorio. Lo incluimos...
     
     git add file1.txt
-    
-hacemos una modificación en el archivo
-    
+    git push -u origin master
+      username --- github-- :davgonzalvo
+      Password --- github-- :
+      
+ con otra cuenta "davgonzalvor" hacemos folk y pull request   
     
 
