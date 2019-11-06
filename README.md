@@ -25,5 +25,7 @@ Y vemos que ese archivo no esta incluido en el repositorio. Lo incluimos con el 
     
     git add file1.txt
     
+hacemos una modificación en el archivo
+    
     
 
